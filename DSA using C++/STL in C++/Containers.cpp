@@ -17,7 +17,7 @@ public:
                 "\n----------------------------------------------------------------------------------------------------"
                 "\nTypes of Containers are :-"
                 "\n    a). Sequence Containers --> Implement data structures that can be accessed sequentially eg :- array, vector, list, forwarded_list & dequeue etc."
-                "\n    b). Containers Adaptors --> Provide a different interface for sequential containers. eg :- queue, priority_queue, stack1 etc."
+                "\n    b). Containers Adaptors --> Provide a different interface for sequential containers. eg :- queue, priority_queue, stack etc."
                 "\n    c). Associate Containers --> Direct Access eg :- Implement sorted data structures that can be quickly searched (O(log n) complexity). eg :- set, multiset, map & multimap etc."
                 "\n    d). Unordered Associative Containers --> Implement unordered data structures that can be quickly searched eg :- unordered_set, unordered_multiset, unordered_map, unordered_multimap etc.";
     }
